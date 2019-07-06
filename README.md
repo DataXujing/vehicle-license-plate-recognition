@@ -12,9 +12,13 @@
 ![](./pic/p1.png)
 
 1.输入原始图片，通过二值化，边缘检测，和基于色调的颜色微调等办法检测出原图中的车牌号的位置；
+
 2.把检测到的车牌(ROI)裁剪，为车牌号的识别做准备；
+
 3.基于裁剪的车牌号，使用直方图的波峰波谷分割裁剪的车牌号（如上图中的第3步）
+
 4.训练机器学习模型做车牌识别，这里训练了2个SVM,一个SVM用来识别省份简称(如 鲁)，另一个SVM用来识别字母和数字。
+
 5.通过PyQt5把整个算法封装成GUI程序，并打包发布安装软件。
 
 
@@ -46,7 +50,11 @@
 ## Reference
 
 1.[OpenCV图像识别：车牌定位算法源码，Python语言实现](https://blog.csdn.net/sumkee911/article/details/79435983)
+
 2.[车牌号识别 python + opencv](https://blog.csdn.net/wzh191920/article/details/79589506)
+
 3 [License-Plate-Recognition](https://github.com/wzh191920/License-Plate-Recognition)
+
 4.[车牌识别（一）-车牌定位](https://www.cnblogs.com/polly333/p/7367479.html)
+
 5.[在PyQt5中美化和装扮图形界面](https://zmister.com/archives/477.html)
