@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>pic/color.png</file>
+    <file>pic/cut.png</file>
+    <file>pic/face.png</file>
+    <file>pic/image.png</file>
+    <file>pic/logo.ico</file>
+    <file>pic/shibie.png</file>
+    <file>pic/video.png</file>
+  </qresource>
+</RCC>

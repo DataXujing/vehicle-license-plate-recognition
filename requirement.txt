@@ -1,0 +1,6 @@
+cv2
+numpy
+json
+PyQt5
+qtawesome
+pyinstaller

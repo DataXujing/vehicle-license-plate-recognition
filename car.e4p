@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project car -->
+<!-- Saved: 2019-07-05, 16:11:30 -->
+<!-- Copyright (C) 2019 DataXujing, 274762204@qq.com -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>7b44b6b179c6221a079f95a039d33daff1089ecc</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Description>car id detection.</Description>
+  <Version>0.1</Version>
+  <Author>DataXujing</Author>
+  <Email>274762204@qq.com</Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>Ui_my_main_ui.py</Source>
+    <Source>my_main_ui.py</Source>
+    <Source>my_pic_rc.py</Source>
+  </Sources>
+  <Forms>
+    <Form>my_main_ui.ui</Form>
+  </Forms>
+  <Translations/>
+  <Resources>
+    <Resource>my_pic.qrc</Resource>
+  </Resources>
+  <Interfaces/>
+  <Others/>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>
